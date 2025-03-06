@@ -21,7 +21,7 @@ Este proyecto utiliza **HTML**, **JavaScript** y **CSS** para crear una página 
    ```bash
    git clone https://github.com/6rand0n/Challenge-Amigo-Secreto.git
 
-**1. Ingresa el nombre**
-**2. Presiona añadir**
-**3. Repite hasta añadir los deseados**
-**4. Presiona Sortear Amigo!!**
+1. **Ingresa un nombre** en el campo de texto.
+2. **Haz clic en "Añadir"** para agregar el nombre a la lista.
+3. **Repite el proceso** hasta que hayas añadido todos los nombres que desees.
+4. **Haz clic en "Sortear Amigo!!"** para seleccionar aleatoriamente un nombre de la lista.
