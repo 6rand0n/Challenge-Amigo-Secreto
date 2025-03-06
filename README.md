@@ -16,11 +16,7 @@ Este proyecto utiliza **HTML**, **JavaScript** y **CSS** para crear una página 
 
 ## Instrucciones de Uso
 
-1. **Clona el repositorio:**
-
-   ```bash
-   git clone https://github.com/6rand0n/Challenge-Amigo-Secreto.git
-
+1. **Ve al apartado de la derecha llamado Deployments y selecciona github-pages**
 1. **Ingresa un nombre** en el campo de texto.
 2. **Haz clic en "Añadir"** para agregar el nombre a la lista.
 3. **Repite el proceso** hasta que hayas añadido todos los nombres que desees.
