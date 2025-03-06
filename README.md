@@ -20,3 +20,8 @@ Este proyecto utiliza **HTML**, **JavaScript** y **CSS** para crear una página 
 
    ```bash
    git clone https://github.com/6rand0n/Challenge-Amigo-Secreto.git
+
+**1. Ingresa el nombre**
+**2. Presiona añadir**
+**3. Repite hasta añadir los deseados**
+**4. Presiona Sortear Amigo!!**
